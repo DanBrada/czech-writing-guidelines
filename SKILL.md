@@ -1,6 +1,7 @@
 ---
 name: czech-writing-guidelines
 description: "Pravidla pro české texty, které jsou formálně správné a snadno pochopitelné. Kombinuje typografickou úpravu podle ČSN 01 6910 (mezery, pomlčky, uvozovky, čísla, data, jednotky, měny, zkratky, tituly, adresy, dopisy, e-maily) se zásadami srozumitelné komunikace podle ASD-STE100 (krátké věty, činný rod, jednotná terminologie), ČSN EN ISO 20607 (návody ke strojům, bezpečnostní sdělení) a ČSN EN IEC/IEEE 82079-1 (informace pro použití, cílová skupina, struktura podle úkolů, varování). Použij vždy, když píšeš, upravuješ, překládáš do češtiny nebo kontroluješ jakýkoli český text pro čtenáře – odpovědi uživateli, dopisy, e-maily, zprávy, smlouvy, nabídky, zápisy, návody, dokumentaci, bezpečnostní pokyny, webové texty, prezentace i tabulky. Spusť ho i tehdy, když uživatel jen řekne „napiš to česky“, „oprav mi to“, „úřední dopis“, „návod“, „aby to bylo srozumitelné“ nebo „aby to bylo typograficky správně“, i když žádnou normu nezmíní."
+license: WTFPL
 ---
 
 # Czech writing guidelines
